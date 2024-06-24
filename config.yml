@@ -1,0 +1,6 @@
+Setup_The_Browsers:
+  chrome:
+    options:
+      - "--remote-allow-origins"
+    driver_path: "src/test/resources/chromedriver.exe"
+    link_file_path: "Change_Link"

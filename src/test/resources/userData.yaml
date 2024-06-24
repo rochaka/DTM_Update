@@ -1,0 +1,13 @@
+users:
+  - name: "Testing"
+    email: "testing.QA@zuse.com"
+    mobile: "0000000000"
+    nic: "000000000V"
+    password: "password123"
+    admission_no: "TEST123"
+log:
+  - email: "rochaka97@gmail.com"
+    password: "Roxxy#97"
+ADMIN:
+  - email: "admin_1@gmail.com"
+    password: "password"
